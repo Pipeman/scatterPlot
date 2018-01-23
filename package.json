@@ -14,7 +14,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "jest": {
-    "setupTestFrameworkScriptFile": "./src/setupTests.js"
+  "devDependencies": {
+    "react-test-renderer": "^16.2.0"
   }
 }
